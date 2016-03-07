@@ -1,7 +1,7 @@
 {
   "name": "@qteen/npmwork",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing how-to-npm on cloud9",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/qteen/npmwork#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
